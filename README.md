@@ -2,7 +2,11 @@
 
 カーネル密度推定法のスクラッチ実装
 
+# 結果
 
+![figure](https://user-images.githubusercontent.com/29496312/58692129-eaf2f680-83c8-11e9-9f58-fbeaf9fcaa2b.png)
+
+ライブラリとの結果とも一致。うまくいっている。
 # やったこと
 
 ・カーネル密度推定法の実装

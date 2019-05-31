@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4af14ef2-b147-4f65-9642-581977259d6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scratch-kernel-density-estimation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kernel-density-estimation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/カーネル密度推定法.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/カーネル密度推定法.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/カーネル密度推定法-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/カーネル密度推定法-checkpoint.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +15,7 @@
     <session id="1547013555">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -90,8 +85,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="115" />
     <option name="y" value="23" />
     <option name="width" value="1325" />
     <option name="height" value="809" />
@@ -124,11 +119,6 @@
             <path>
               <item name="scratch-kernel-density-estimation" type="b2602c69:ProjectViewProjectNode" />
               <item name="scratch-kernel-density-estimation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scratch-kernel-density-estimation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scratch-kernel-density-estimation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,7 +158,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1325" height="809" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
